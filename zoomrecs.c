@@ -1,13 +1,5 @@
 /*
 Contains functions to manipulate data
-***************************************************************
-* Author	Dept.		Date		Notes
-***************************************************************
-* Annie K	Comp. Science.	Apr 26 2021	Inital blank version.
-* Annie K	Comp. Science.	Apr 27 2021	Added addZoomRecord.
-* Annie K	Comp. Science.	Apr 27 2021	Added generateAttendance.
-* Annie K	Comp. Science.	Apr 27 2021	Fixed bug.
-* Annie K	Comp. Science.	Apr 27 2021	Added helper function printNodes.
 */
 
 #include <stdio.h>
