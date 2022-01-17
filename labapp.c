@@ -1,3 +1,5 @@
+// Program to generate an ordered list of student lab attendance
+
 #include "zoomrecs.h"
 
 int main(int argc, char *argv[]) {
