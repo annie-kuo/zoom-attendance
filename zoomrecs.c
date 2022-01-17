@@ -1,6 +1,4 @@
-/*
-Contains functions to manipulate data
-*/
+// Contains functions to manipulate data
 
 #include <stdio.h>
 #include <stdlib.h>
