@@ -1,6 +1,4 @@
-/*
-Program to generate an ordered list of student lab attendance
-*/
+// Program to generate an ordered list of student lab attendance
 
 #include <stdio.h>
 #include <stdlib.h>
